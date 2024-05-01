@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo me chamo Fábio Henrique. 👋
+### Olá, seja bem-vindo, me chamo Fábio Henrique. 👋
 
 <!--
 **Fabinho013/Fabinho013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
